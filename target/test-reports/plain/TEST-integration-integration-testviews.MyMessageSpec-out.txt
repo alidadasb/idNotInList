@@ -1,0 +1,4 @@
+--Output from test something--
+UserDomain.findUnseenMessageForUser(u2): [testviews.MyMessage : 34, testviews.MyMessage : 35, testviews.MyMessage : 36]
+--Output from test something 2 --
+UserDomain.findUnseenMessageForUser(u1): [testviews.MyMessage : 37]

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="Alidads-MacBook-Pro.local" name="testviews.MyMessageSpec" tests="2" time="0.218" timestamp="2014-08-21T06:19:30">
+  <properties />
+  <testcase classname="testviews.MyMessageSpec" name="test something" time="0.139" />
+  <testcase classname="testviews.MyMessageSpec" name="test something 2 " time="0.077" />
+  <system-out><![CDATA[--Output from test something--
+UserDomain.findUnseenMessageForUser(u2): [testviews.MyMessage : 34, testviews.MyMessage : 35, testviews.MyMessage : 36]
+--Output from test something 2 --
+UserDomain.findUnseenMessageForUser(u1): [testviews.MyMessage : 37]
+]]></system-out>
+  <system-err><![CDATA[--Output from test something--
+--Output from test something 2 --
+]]></system-err>
+</testsuite>
